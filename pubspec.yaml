@@ -1,2 +1,5 @@
 name: dartpoet
 description: a dart api for generting .dart source files.
+
+dependencies:
+  test: ^1.5.3
