@@ -1,3 +1,9 @@
 void main() {
-	print('Hello, World!');
+  print('Hello, World!');
 }
+
+class DartFile {}
+
+class TypeSpec {}
+
+class MethodSpec {}
